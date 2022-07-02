@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masaniprakash" alt="masaniprakash" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/masaniprakash5" target="blank"><img src="https://img.shields.io/twitter/follow/masaniprakash5/?logo=twitter&style=for-the-badge" alt="masaniprakash5/" /></a> </p>
+<p align="left"> <a href="https://twitter.com/masaniprakash5" target="blank"><img src="https://img.shields.io/twitter/follow/masaniprakash5?logo=twitter&style=for-the-badge" alt="masaniprakash5" /></a> </p>
 
 - 🌱 I'm currently studying as a **full stack developer at RVSCAS**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/masaniprakash5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masaniprakash5/" height="30" width="40" /></a>
+<a href="https://twitter.com/masaniprakash5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masaniprakash5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/masaniprakash-m-081142169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/masaniprakash-m-081142169" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/masaniprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/masaniprakash" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/masani.prakash.12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/masani.prakash.12/" height="30" width="40" /></a>
