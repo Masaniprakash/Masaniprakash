@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masaniprakash M</h1>
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
