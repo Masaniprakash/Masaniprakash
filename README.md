@@ -1,9 +1,8 @@
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> , I'm Masaniprakash</h1>
 
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="left" alt="GIF" src="https://media3.giphy.com/media/26tP3M3i03hoIYL6M/200.gif" width="400"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masaniprakash&label=Profile%20views&color=0e75b6&style=flat" alt="masaniprakash" /> </p>
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=masaniprakash&label=Profile%20views&color=0e75b6&style=flat" alt="masaniprakash" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masaniprakash" alt="masaniprakash" /></a> </p>
 
